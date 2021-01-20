@@ -29,7 +29,7 @@
     background-color: rgb(199, 199, 199)
   }
  
-  @media (max-width: 459px) {
+  @media (max-width: 480px) {
     .parent {
       display: grid;
       flex-direction: column;
